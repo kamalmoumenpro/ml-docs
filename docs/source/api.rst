@@ -1,8 +1,12 @@
 API
 ===
 
+This page is dedicated to machine learning
+
+
+
 .. autosummary::
    :toctree: generated
 
    lumache
-   the force of being 
+ 
