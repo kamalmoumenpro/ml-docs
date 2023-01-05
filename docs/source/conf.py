@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Machine Learning Docs'
+copyright = '2021, Kamal Moumen'
+author = 'Kamal Moumen'
 
 release = '0.1'
 version = '0.1.0'
